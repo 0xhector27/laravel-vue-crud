@@ -20,10 +20,3 @@ One CRUD operation to manage Companies - create/edit/update/delete.
 - That's it - load the homepage, use __Register__ link and use the CRUD
 
 ---
-
-### License
-
-Please use and re-use however you want.
-
----
-
