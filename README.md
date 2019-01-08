@@ -4,7 +4,7 @@ This project shows how Laravel works with Vue.js
 
 One CRUD operation to manage Companies - create/edit/update/delete.
 
-![Laravel + Vue.js](http://webcoderpro.com/laravel-vue.png)
+![Laravel + Vue.js]
 
 ---
 
