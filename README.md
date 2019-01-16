@@ -25,4 +25,6 @@ One CRUD operation to manage Companies - create/edit/update/delete.
 
 - Star this repository
 
+---
+
 Thank you very much!
